@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>text</title>
+	<title>text new text one</title>
 </head>
 <body>
 	<form>
